@@ -1,0 +1,8 @@
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\Settings.job
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\ConsoleApp2.exe
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\ConsoleApp2.dll
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\ConsoleApp2.deps.json
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\ConsoleApp2.runtimeconfig.json
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\ConsoleApp2.pdb
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\Newtonsoft.Json.dll
+F:\TelegramWeb\DevApi\ConsoleApp2\ConsoleApp2\obj\Release\net6.0\PubTmp\Out\app_data\Jobs\Triggered\ConsoleApp2\Telegram.Bot.dll
